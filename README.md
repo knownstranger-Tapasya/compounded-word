@@ -4,13 +4,15 @@ This is a C++ program that finds the longest and second-longest compound words f
 
 Prerequisites:
 C++ compiler (e.g., g++)
-Input text file containing a list of words (e.g., "Input_02.txt")
+Input text file containing a list of words (e.g., "Input_01.txt")
 
 Getting Started
 1. Clone this repository to your local machine:git clone https://github.com/knownstranger-Tapasya/compounded-word.git
 2. Compile the program using a C++ compiler:g++ -o compounded-word main.cpp
-Usage
-Run the compiled program with the input file as an argument:./compound_word_finder D:/Input_01.txt or ./compound_word_finder D:/Input_02.txt
+
+   
+Usage:
+Run the compiled program with the input file as an argument:./compounded-word D:/Input_01.txt or ./compounded-word D:/Input_02.txt
 
 The program will analyze the list of words in the input file and output the longest and second-longest compound words, along with the processing time.
 Algorithm:
