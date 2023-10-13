@@ -15,6 +15,7 @@ Usage:
 Run the compiled program with the input file as an argument:./compounded-word D:/Input_01.txt or ./compounded-word D:/Input_02.txt
 
 The program will analyze the list of words in the input file and output the longest and second-longest compound words, along with the processing time.
+
 Algorithm:
 
 The program uses a Trie data structure to efficiently check if a word can be formed by concatenating other words. It follows these steps:
