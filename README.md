@@ -29,5 +29,16 @@ The program uses a Trie data structure to efficiently check if a word can be for
 
 5.Find the longest and second-longest compound words from the set.
 
+Contributing:
+Contributions are welcome. If you'd like to improve this program, please follow these steps:
+
+1.Fork the repository.
+
+2.Create a new branch for your feature or bug fix.
+
+3.Make your changes and commit them.
+
+4.Create a pull request.
+
 License:
 This project is licensed under the MIT License - see the LICENSE file for details.
